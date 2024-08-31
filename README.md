@@ -13,4 +13,3 @@ In this project, I worked with a comprehensive dataset from a DVD rental store, 
   - What are the countries where the Video Rental company is present?
   - What are the total sales by country?
 - **Data Aggregation:** Utilized SQL aggregation functions to generate summaries of customer behavior, film popularity, and revenue streams.
-- **Optimization Recommendations:** Based on the data analysis, I provided actionable recommendations, such as adjusting inventory based on rental trends or targeting high-value customers for loyalty programs.
